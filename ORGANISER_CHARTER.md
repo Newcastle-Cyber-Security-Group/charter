@@ -77,6 +77,15 @@ in the success and growth of the group.
      Any deviation from this communication practice should be communicated and
      justified to the other organisers in a timely manner.
 
+8. **Charter Amendment**
+
+   - Any proposed changes to the charter of NCSG must garner support from a
+     majority of the organisers before being implemented. This ensures that
+     any amendments to the charter reflect the collective agreement and consensus
+     of the organising team. Discussions regarding charter amendments should be conducted
+     openly and transparently, allowing all organisers the opportunity to voice their
+     opinions and concerns before reaching a decision.
+
 ## Adherence as an Absolute Requirement
 
 All organisers are required to adhere strictly to the provisions of this
